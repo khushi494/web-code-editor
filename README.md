@@ -16,9 +16,6 @@ This is a lightweight and interactive **web-based code editor** made for student
 
 > The screenshot gives a quick look at how the editor appears in the browser.
 
-## 🚀 Try It Out (if GitHub Pages is enabled)
-
-[🔗 Live Demo](https://khushi494.github.io/web-code-editor)  
 
 ## 🛠️ Technologies Used
 
